@@ -20,7 +20,7 @@ make KERNEL_TREE=<root of the kernel source tree>
 
 This builds both the flashcache.ko and 3 utilities.
 
-flascache-sa-guide.txt has details on how to create and load
+flashcache-sa-guide.txt has details on how to create and load
 flashcache volumes.
 
 Mohan Srinivasan
