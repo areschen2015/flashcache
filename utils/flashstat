@@ -349,7 +349,7 @@ Command line options :
 
    -h,--help           Print Help Info. 
    -i,--interval       Time(second) Interval.  
-   -C,--count          Times. 
+   -c,--count          Times. 
    -d,--device         Flashcache device.
    -n,--nocolor        No color mode.
 EOF
